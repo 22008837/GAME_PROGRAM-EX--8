@@ -37,6 +37,5 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
 
 
 ## Result
-A landscape was successfully created and enhanced with:
-- A layered, textured material using `M_Landscape`.
-- Static mesh fol
+A landscape and Foliage in Unreal Engine was successfully created 
+
